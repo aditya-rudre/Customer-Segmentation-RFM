@@ -30,7 +30,7 @@ The analysis identified three distinct customer segments using K-Means (K=3):
 * **Python:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (K-Means, StandardScaler)
 * **Visualization:** Matplotlib, Seaborn
-* **Data Source:** Online Retail Dataset (UCI Machine Learning Repository)
+* **Data Source:** [Online Retail Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail) 
 
 ## ⚙️ Setup & Installation
 1. Clone the repository:

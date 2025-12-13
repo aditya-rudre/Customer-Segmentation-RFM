@@ -1,0 +1,19 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dataset (Do not upload large Excel files to GitHub)
+Online Retail.xlsx
+*.csv

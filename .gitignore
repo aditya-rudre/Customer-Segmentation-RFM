@@ -14,6 +14,6 @@ env/
 .vscode/
 .idea/
 
-# Dataset (Do not upload large Excel files to GitHub)
+# Dataset
 Online Retail.xlsx
 *.csv

@@ -26,25 +26,20 @@ By analyzing transactional data, the project identifies distinct customer person
 | **Casual Buyers** | Low Frequency, Low Spend | **Cross-Selling:** Recommend complementary items to boost basket size. |
 
 ## 🛠️ Technologies Used
-<<<<<<< HEAD
+
 * **Python:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (K-Means, StandardScaler)
 * **Visualization:** Matplotlib, Seaborn
 * **Data Source:** [Online Retail Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail) 
-=======
 * **Backend:** Python (Pandas, NumPy, Scikit-Learn) for ETL and Modeling.
 * **Frontend:** Microsoft Power BI for Dashboarding and Data Storytelling.
 * **Data Source:** Online Retail Dataset (UCI Machine Learning Repository)
->>>>>>> 4d202bc (migration from streamlit to power bi)
+
 
 ## ⚙️ Setup & Installation
 1. **Generate Data:**
-   ```bash
-<<<<<<< HEAD
-   git clone [https://github.com/aditya-rudre/Customer-Segmentation-RFM.git](https://github.com/aditya-rudre/Customer-Segmentation-RFM.git)
+
+git clone [https://github.com/aditya-rudre/Customer-Segmentation-RFM.git](https://github.com/aditya-rudre/Customer-Segmentation-RFM.git)
 
 Author: Aditya Rudre
-=======
-   pip install -r requirements.txt
-   python generate_customer_data.py
->>>>>>> 4d202bc (migration from streamlit to power bi)
+
